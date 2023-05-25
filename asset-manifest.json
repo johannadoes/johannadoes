@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.a6e837de.css",
-    "main.js": "./static/js/main.638ff8de.js",
+    "main.js": "./static/js/main.43f8a656.js",
     "static/js/787.18c97524.chunk.js": "./static/js/787.18c97524.chunk.js",
     "static/media/FotoJohannaDoppler.jpg": "./static/media/FotoJohannaDoppler.1d2181a314b4c7d7a0a9.jpg",
     "static/media/analysing.png": "./static/media/analysing.2412b747fb49d21f5261.png",
@@ -12,11 +12,11 @@
     "static/media/mail2.png": "./static/media/mail2.284efa973257daeba971.png",
     "index.html": "./index.html",
     "main.a6e837de.css.map": "./static/css/main.a6e837de.css.map",
-    "main.638ff8de.js.map": "./static/js/main.638ff8de.js.map",
+    "main.43f8a656.js.map": "./static/js/main.43f8a656.js.map",
     "787.18c97524.chunk.js.map": "./static/js/787.18c97524.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6e837de.css",
-    "static/js/main.638ff8de.js"
+    "static/js/main.43f8a656.js"
   ]
 }
