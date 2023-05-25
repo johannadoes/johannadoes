@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "./static/css/main.a6e837de.css",
-    "main.js": "./static/js/main.f8f88f26.js",
+    "main.js": "./static/js/main.f818c3d1.js",
     "static/js/787.18c97524.chunk.js": "./static/js/787.18c97524.chunk.js",
     "static/media/FotoJohannaDoppler.jpg": "./static/media/FotoJohannaDoppler.1d2181a314b4c7d7a0a9.jpg",
     "static/media/analysing.png": "./static/media/analysing.2412b747fb49d21f5261.png",
-    "static/media/defense-presentation.jpg": "./static/media/defense-presentation.0a6818c9334627f7f6f7.jpg",
     "static/media/bonsai.png": "./static/media/bonsai.eada884b0bf97a607f3d.png",
     "static/media/zen-stones.png": "./static/media/zen-stones.ac12a41c5ce06d22a852.png",
     "static/media/CVpage1.png": "./static/media/CVpage1.957be31ebd5517e21630.png",
@@ -13,11 +12,11 @@
     "static/media/mail2.png": "./static/media/mail2.284efa973257daeba971.png",
     "index.html": "./index.html",
     "main.a6e837de.css.map": "./static/css/main.a6e837de.css.map",
-    "main.f8f88f26.js.map": "./static/js/main.f8f88f26.js.map",
+    "main.f818c3d1.js.map": "./static/js/main.f818c3d1.js.map",
     "787.18c97524.chunk.js.map": "./static/js/787.18c97524.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6e837de.css",
-    "static/js/main.f8f88f26.js"
+    "static/js/main.f818c3d1.js"
   ]
 }
